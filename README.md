@@ -51,6 +51,7 @@ Instalação
 npm install
 Compilar o CSS com Tailwind
 npx @tailwindcss/cli -i ./styles/input.css -o ./styles/output.css --watch
+
 Objetivo do projeto
 
 Este portfólio foi desenvolvido para:
