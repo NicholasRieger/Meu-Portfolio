@@ -8,6 +8,8 @@ Cor de apoio suave: #D9B8A7 */
 @import "tailwindcss";
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@400;600;700&display=swap');
 
+:root{scroll-behavior: smooth;}
+
 body{
     background-color: #F7F3EE;
     font-family: 'Inter', sans-serif;
@@ -21,3 +23,4 @@ h5,
 h6 {
   font-family: 'Sora', sans-serif;
 }
+
