@@ -57,12 +57,14 @@ npx @tailwindcss/cli -i ./styles/input.css -o ./styles/output.css --watch
 
 Este portfólio foi desenvolvido para:
 
-apresentar meus projetos de forma mais profissional
-mostrar meu cuidado com layout, clareza e responsividade
-servir tanto para recrutadores quanto para clientes que buscam landing pages e páginas de apresentação
-Contato
-E-mail: nicholasrieger2@gmail.com
-GitHub: https://github.com/NicholasRieger
-Observações
+- apresentar meus projetos de forma mais profissional
+- mostrar meu cuidado com layout, clareza e responsividade
+- servir tanto para recrutadores quanto para clientes que buscam landing pages e páginas de apresentação
+  
+## Contato
+- E-mail: nicholasrieger2@gmail.com
+- GitHub: https://github.com/NicholasRieger
+  
+## Observações
 
 Este projeto está em evolução e pode receber melhorias visuais, novos projetos e ajustes de conteúdo com o tempo.
