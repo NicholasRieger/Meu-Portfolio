@@ -1,0 +1,23 @@
+/* Fundo principal: #F7F3EE
+Superfícies/cards: #FFFDF9
+Texto principal: #1F1F1F
+Texto secundário: #5F5A55
+Cor de destaque: #B86B4B
+Cor de apoio suave: #D9B8A7 */
+
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Sora:wght@400;600;700&display=swap');
+
+body{
+    background-color: #F7F3EE;
+    font-family: 'Inter', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Sora', sans-serif;
+}
